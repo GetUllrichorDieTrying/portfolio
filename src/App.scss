@@ -1,5 +1,3 @@
-@import '/src/scss/themes/theme-dark.scss';
-@import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 html {
@@ -17,6 +15,7 @@ html {
 
 .title-container {
 	height: 50px;
+	color: #F5F6EE;
 }
 
 .title-styles {
@@ -38,7 +37,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #0F1D2B;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -82,20 +81,14 @@ header .nav {
 	width: 100px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
-}
-
-.language {
-	font-size: 25px;
-	background-color: #e9d5a1;
-	padding-bottom: 10px;
-	padding-top: 80px;
+	color: #F5F6EE;
 }
 
 header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #FFB000;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -120,16 +113,16 @@ header h1 {
 }
 
 #about {
-	background: #fff;
 	overflow: hidden;
+	background-image: url('../public/images/banner.jpg');
 }
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 24px/32px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	font-weight: bolder;
 	text-align: center;
 }
 
@@ -231,7 +224,8 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #F5F6EE;
+	// background-image: url('../public/images/banner.jpg');
 }
 
 .experience-icon {
@@ -245,7 +239,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #e9d5a1 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -348,12 +342,15 @@ header h1 {
 	outline: none !important;
 }
 
+.awssld__content > img {
+	width: 100%;
+}
 .loader-bar-color {
 	color: black !important;
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #F5F6EE;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +386,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #0F1D2B;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -399,10 +396,10 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 24px/32px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #FFB000;
 	text-align: center;
 }
 

@@ -66,8 +66,8 @@ class Experience extends Component {
       <section id="resume" className="pb-5">
         <div className="col-md-12 mx-auto">
           <div className="col-md-12">
-            <h1 className="section-title" style={{ color: "black" }}>
-              <span className="text-black" style={{ textAlign: "center" }}>
+            <h1 className="section-title" style={{ color: "#FFB000" }}>
+              <span className="text-#FFB000" style={{ textAlign: "center" }}>
                 {sectionName}
               </span>
             </h1>
