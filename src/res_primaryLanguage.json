@@ -62,37 +62,27 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "BaseHubs",
+        "title": "Business Development",
+        "years": "06.2021 - 03.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "PipeDrive"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Reply.io",
+          "Google Analytics"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Infantryman",
+        "years": "08.2017 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "M249"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "PEQ-15",
+          "Javelin"
         ]
       }
     ]
