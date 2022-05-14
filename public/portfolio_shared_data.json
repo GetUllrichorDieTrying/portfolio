@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Dylan Ullrich",
-      "titles": [ "Software Developer" ],
+      "titles": [ "I am a Software Developer with recent experience working in Business Development at a tech startup. While there, I found myself increasingly interested in streamlining and automating processes, which lead me to further explore the world of coding. I got out of the Army in September of 2020, and earned my Bachelor of Arts in Law, Economics, and Public Policy from University of Washington in March 2022. Since then I have devoted my time to honing my skills as a Software Developer." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/GetUllrichorDieTrying",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/dsullrich/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "dylanprofilepic.jpeg"
     },
     "skills": {
       "icons": [

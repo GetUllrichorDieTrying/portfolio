@@ -1,7 +1,7 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Dylan Ullrich. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+  "basic_info": {
+    "description_header": "Hi",
+    "description": ["👋 I'm Dylan Ullrich, I am a Veteran with an Active Secret Clearance, and recent experience working in Business Development at a tech startup. While there, I found myself increasingly interested in streamlining and automating processes. I realized that I loved the thinking that went into integrating information from multiple platforms, which lead me back to the world of coding. I earned my Bachelor of Arts in Law, Economics, and Public Policy from University of Washington in March 2022, and since then I have devoted my time to honing my skills as a Software Developer. I know that technology will help solve massive problems that exist in our reality, and I want to be a part of the solutions that solve those problems. My experience as an Infantryman in the Army, and my degree, that stressed critical thinking regarding our society, will help bridge the gap between technology and real world problems."],
       "section_name": {
         "about": "About me",
         "projects": "Projects",
